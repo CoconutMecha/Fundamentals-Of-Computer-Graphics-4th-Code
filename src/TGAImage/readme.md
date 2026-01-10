@@ -1,0 +1,1 @@
+若使用tgaimage需要将tgaimage.cpp移动到src下，8.1.1-LineDrawing-useTgaimage是用tgaimage编写的中点算法可调试使用

@@ -1,0 +1,8 @@
+自己封装的类如下：
+TriangleClass
+LineClass
+TriangleClass2
+PhongShading
+load_obj
+ZBufferClass
+load_obj
