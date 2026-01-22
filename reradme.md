@@ -4,7 +4,7 @@
 
 本项目是Fundamentals-Of-Computer-Graphics-4th-CN的算法的实现
 
-使用x86_64-15.2.0-release-win32-seh-msvcrt-rt_v13-rev0和glm
+使用mingw:x86_64-15.2.0-release-win32-seh-msvcrt-rt_v13-rev0和glm
 
 本项目最终采用ppm格式输出
 
@@ -60,7 +60,7 @@
 
 1.    7. viewing：正交变换，相机操作，透视变换的实现，对应原书第四版第7章
 
-2.    8.The Graphics Pipeline：线段绘制，三角图元绘制（暴力形和增量型），三角形边缘处理，对应原书第四版第8章
+2. 8.The Graphics Pipeline：线段绘制，三角图元绘制（暴力形和增量型），三角形边缘处理，对应原书第四版第8章
 
 3. 10.shading：冯氏光照算法，对应原书第10章
 
@@ -71,5 +71,3 @@
 
 
 # 
-
-
